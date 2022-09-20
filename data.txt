@@ -5,3 +5,4 @@ soft tech
 airbus
 boeing
 cfm engines
+clazz = clazz.getDeclaringClass();
